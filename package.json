@@ -1,0 +1,6 @@
+{
+  "name": "mellai-91",
+  "version": "9.1.1",
+  "private": true,
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
